@@ -12,7 +12,7 @@ Item {
   property var manifest: null
   property var pluginRegistry: null
 
-  readonly property string layerNamespace: "jesse.glass-clock"
+  readonly property string layerNamespace: "NGNK.glass-clock"
   readonly property string glassRuleName: root.layerNamespace + "-glass"
 
   readonly property color glassTint: Color.popups.background
