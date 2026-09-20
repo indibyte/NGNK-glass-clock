@@ -23,7 +23,7 @@ through the frosted surface.
 ### One-liner
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/indibyte/jesse-glass-clock/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/indibyte/NGNK-glass-clock/main/install.sh | bash
 ```
 
 ### Manual
@@ -32,7 +32,7 @@ Prefer the native Omarchy command (`omarchy plugin add` clones, validates, and
 enables the plugin):
 
 ```bash
-omarchy plugin add https://github.com/indibyte/jesse-glass-clock --enable --yes
+omarchy plugin add https://github.com/indibyte/NGNK-glass-clock --enable --yes
 ```
 
 Or copy/symlink this directory into your Omarchy plugins folder:
