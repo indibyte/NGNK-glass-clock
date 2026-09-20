@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-PLUGIN_ID="jesse.glass-clock"
+PLUGIN_ID="NGNK.glass-clock"
 PLUGIN_URL="https://github.com/indibyte/NGNK-glass-clock"
 PLUGINS_DIR="${HOME}/.config/omarchy/plugins"
 
