@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "jesse.glass-clock",
+  "name": "Glass Clock",
+  "version": "1.0.0",
+  "author": "Jesse",
+  "description": "A frosted-glass desktop clock widget",
+  "kinds": [
+    "service"
+  ],
+  "entryPoints": {
+    "service": "GlassClock.qml"
+  }
+}
