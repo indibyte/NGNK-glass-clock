@@ -20,7 +20,22 @@ through the frosted surface.
 
 ## Install
 
-Copy or symlink this directory into your Omarchy plugins folder:
+### One-liner
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/indibyte/jesse-glass-clock/main/install.sh | bash
+```
+
+### Manual
+
+Prefer the native Omarchy command (`omarchy plugin add` clones, validates, and
+enables the plugin):
+
+```bash
+omarchy plugin add https://github.com/indibyte/jesse-glass-clock --enable --yes
+```
+
+Or copy/symlink this directory into your Omarchy plugins folder:
 
 ```
 ~/.config/omarchy/plugins/jesse.glass-clock/
