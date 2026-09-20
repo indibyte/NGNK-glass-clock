@@ -1,4 +1,4 @@
-NGNK_logo1.jpg
+![Alt Text](NGNK_logo1.jpg)
 
 # Glass Clock
 
