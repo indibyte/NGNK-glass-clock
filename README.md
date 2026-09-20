@@ -1,3 +1,5 @@
+NGNK_logo1.jpg
+
 # Glass Clock
 
 A frosted-glass desktop clock widget for [Omarchy](https://omarchy.org).
