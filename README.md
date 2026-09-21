@@ -44,12 +44,12 @@ omarchy plugin add https://github.com/indibyte/NGNK-glass-clock --enable --yes
 Or copy/symlink this directory into your Omarchy plugins folder:
 
 ```
-~/.config/omarchy/plugins/NGNK.glass-clock/
+~/.config/omarchy/plugins/ngnk.glass-clock/
 ```
 
 ## Usage
 
-1. Enable the plugin in your Omarchy config (its id is `NGNK.glass-clock`).
+1. Enable the plugin in your Omarchy config (its id is `ngnk.glass-clock`).
 2. Reload the Omarchy shell.
 
 The clock appears pinned to the top-right corner of your largest monitor.
