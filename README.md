@@ -1,7 +1,7 @@
 # Glass Clock
 
 <p align="center">
-  <img src="NGNK_logo1.jpg" alt="NGNK logo" width="128">
+  <img src="NGNK_logo1.jpg" alt="NGNK logo" width="220">
 </p>
 
 A frosted-glass desktop clock widget for [Omarchy](https://omarchy.org).
