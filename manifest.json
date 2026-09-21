@@ -6,9 +6,9 @@
   "author": "Jesse",
   "description": "A frosted-glass desktop clock widget",
   "kinds": [
-    "service"
+    "overlay"
   ],
   "entryPoints": {
-    "service": "GlassClock.qml"
+    "overlay": "GlassClock.qml"
   }
 }
