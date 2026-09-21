@@ -12,6 +12,9 @@ Item {
   property var manifest: null
   property var pluginRegistry: null
 
+  function open(payloadJson) {}
+  function close() {}
+
   readonly property string layerNamespace: "NGNK.glass-clock"
   readonly property string glassRuleName: root.layerNamespace + "-glass"
 
