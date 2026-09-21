@@ -26,16 +26,7 @@ through the frosted surface.
 
 ## Install
 
-### One-liner
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/indibyte/NGNK-glass-clock/main/install.sh | bash
-```
-
-### Manual
-
-Prefer the native Omarchy command (`omarchy plugin add` clones, validates, and
-enables the plugin):
+Prefer the native Omarchy command:
 
 ```bash
 omarchy plugin add https://github.com/indibyte/NGNK-glass-clock --enable --yes
