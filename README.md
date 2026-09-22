@@ -6,7 +6,7 @@
 
 A frosted-glass desktop clock widget for [Omarchy](https://omarchy.org).
 
-![Glass Clock screenshot](screenshot.png)
+![Glass Clock screenshot](preview.png)
 
 Renders a translucent, blurred clock in the top-right corner of your primary
 display using a Quickshell layer-shell surface. Glass is applied via Hyprland
